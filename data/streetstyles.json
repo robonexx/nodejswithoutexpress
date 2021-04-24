@@ -1,0 +1,5 @@
+[{"id":"1","name":"Locking","description":"Dancestyle creted in Los Angeles in the 70's by Don Campbell aka Campbellock. A dance style build on riding the rhythm, and locking your joints and muscles. ","price":89.99},
+    {"id":"2","name":"Popping","description":"Dancestyle created in Los Angeles in the mid 70s name was coined by Boogaloo Sam. This style is ...","price":599.99},
+    {"id":"3","name":"Breaking","description":"Dancestyle created in New York, it is one of the 4 elements of hiphop. And was mostly used by youth in the afro American and Puerto rican communities","price":929.99},
+    {"id":"4","name":"Hip-Hop","description":"Orginal style is breaking but has evolved thru times. The basic movement is rocking and bouncing to the beat","price":399.99},
+    {"id":"5","name":"House","description":"The dancestyle originated in the clubs in New York by a mixture of people from all cultures. The music was founded in Chicago", "price":49.99}]
